@@ -51,7 +51,7 @@ dependencies {
 
 
     //navigation
-    implementation("androidx.navigation:navigation-compose:2.10.1")
+    implementation("androidx.navigation:navigation-compose:2.10.2")
 
     //hilt
     implementation("com.google.dagger:hilt-android:2.60.1")
